@@ -1,9 +1,18 @@
 h3 {
     font-family: 'Montserrat', sans-serif;
 }
-.rere-bebe {
-    font-family: 'Montserrat', sans-serif;
-    corner-radius: 10px;
-    height: 20px;
-    width: 30xp;
-}
+.custom-button {
+            width: 30px; /* Largeur du bouton */
+            height: 20px; /* Hauteur du bouton */
+            background-color: blue; /* Couleur de fond */
+            color: white; /* Couleur du texte */
+            border: none; /* Supprime les bordures par défaut */
+            border-radius: 5px; /* Coins arrondis si désiré */
+            font-size: 12px; /* Taille du texte */
+            cursor: pointer; /* Changement de curseur au survol */
+            text-align: center; /* Centrer le texte */
+        }
+
+        .custom-button:hover {
+            background-color: darkblue; /* Couleur au survol */
+        }
