@@ -2,8 +2,8 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 .custom-button {
-            width: 30px; /* Largeur du bouton */
-            height: 20px; /* Hauteur du bouton */
+            width: 300px; /* Largeur du bouton */
+            height: 200px; /* Hauteur du bouton */
             background-color: blue; /* Couleur de fond */
             color: white; /* Couleur du texte */
             border: none; /* Supprime les bordures par défaut */
