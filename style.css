@@ -16,3 +16,6 @@ h3 {
         .custom-button:hover {
             background-color: darkblue; /* Couleur au survol */
         }
+        .up-bar {
+            align-items: center;
+        }
